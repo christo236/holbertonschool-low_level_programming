@@ -1,5 +1,4 @@
 #include <stdio.h>
-0;276;0c11;rgb:2b2b/2b2b/2b2b0;276;0c
 
 /**
  * main - print a C program using printf
