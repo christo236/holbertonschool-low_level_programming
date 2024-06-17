@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - hello,puts 
+ * main - Hello,puts 
  *
  * Description : Print exactly "Programming is like
  * building a multilingual
