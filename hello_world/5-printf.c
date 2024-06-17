@@ -1,12 +1,12 @@
 #include <stdio.h>
+0;276;0c11;rgb:2b2b/2b2b/2b2b0;276;0c
 
 /**
- * main - Hello, printf
+ * main - print a C program using printf
  *
- * Description: Prints exactly with printf "with proper grammar,
- * but the outcome is a piece of art,
- * Returns: Always 0.
- */
+ * Return: 0
+*/
+
 
 int main(void)
 {
