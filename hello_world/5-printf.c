@@ -3,16 +3,13 @@
 /**
  * main - Hello, printf
  *
- * Description: Prints exactly with printf "with proper grammar, but the ouctome is a 
+ * Description: Prints exactly with printf "with proper grammar, but the outcome is a 
  * piece of art, followed by a new life.
- *
- * Returns Always 0.
+ * Returns: Always 0.
  */
 
 int main(void)
-
 { 
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0)
-
+	printf("with proper grammar, but the outcome is a piece of art, \n");
+	return (0);
 }
