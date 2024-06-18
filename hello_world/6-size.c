@@ -5,8 +5,10 @@
  *
  * Description: prints the size of various types
  *              on the computer it is compiled ans run on.
- * Returns: always 0
- * /
+ *
+ * Return: Always  0
+*/
+
 
 int main(void)
 {
@@ -18,5 +20,5 @@ printf("Taille de float: %lu octet(s)\n", sizeof(float));
 printf("Taille de double: %lu octet(s)\n", sizeof(double));
 printf("Taille de long double: %lu octet(s)\n", sizeof(long double));
 
-return 0;
+return (0);
 }
