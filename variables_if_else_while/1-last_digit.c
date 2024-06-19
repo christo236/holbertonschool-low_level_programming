@@ -5,7 +5,7 @@
 /**
  * main - The last digit
  *
- * print le dernier chiffre du nombre stock√ dans la variable n
+ * print le dernier chiffre du nombre stock√É dans la variable n
  *
  * Return: Always 0.
  *
