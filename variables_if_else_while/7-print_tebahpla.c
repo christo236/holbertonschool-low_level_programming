@@ -12,7 +12,7 @@ int main(void)
 {
 	int miror;
 
-	for (miror = 'z'; miror <= 'a'; miror--)
+	for (miror = 'z'; miror >= 'a'; miror--)
 		putchar(miror);
 	putchar('\n');
 	return (0);
