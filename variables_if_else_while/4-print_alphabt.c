@@ -13,9 +13,10 @@ int main(void)
 
 	for (alphab = 'a'; alphab <= 'z'; alphab++)
 		if (alphab == 'q' || alphab == 'e')
-			int a = 1;
+		{}
 		else
-			putchar(alphab);
+		{	putchar(alphab);
+		}
 putchar('\n');
 return (0);
 }
