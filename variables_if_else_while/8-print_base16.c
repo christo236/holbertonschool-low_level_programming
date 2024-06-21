@@ -11,14 +11,14 @@
 int main(void)
 {
 
-	char hexa[] = "0123456789abcdef";
+	char lettre;
 	int i;
 
 	for (i = '0'; i <= '9'; i++)
-	{
-		putchar(hexa[i]);
-		putchar('\n');
-	}
+		putchar(i);
+	for (lettre = 'a'; 'a' <= 'f'; lettre++)
+		putchar(lettre);
+	putchar('\n');
 	return (0);
 }
 
